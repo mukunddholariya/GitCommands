@@ -1,0 +1,41 @@
+Initial Setup 
+
+git init 
+git add -A 
+git commit -m "Commit message"
+
+
+Create new remote repo on github 
+and copy its url 
+
+git remote add <url>
+git push --set-upstream origin master 
+
+
+
+-----------------------------------
+mukund goes in office (first day)
+in morning 
+
+git clone <url>
+
+if that folder already exists 
+
+git pull 
+
+---------------------------------------
+mukund finishes all the work
+
+git add <file1>, <file2>  
+[or]
+git add -A 
+
+
+git push 
+
+
+git status 
+
+
+
+----------------------
