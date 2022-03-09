@@ -39,3 +39,4 @@ git status
 
 
 ----------------------
+https://stackoverflow.com/questions/46155989/ngx-translate-with-dynamic-text-on-ts-file
